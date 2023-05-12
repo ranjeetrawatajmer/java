@@ -11,7 +11,7 @@ class table
         while(a<=10)
         {
         table=a*n;
-        system.out.println(n + "x"+ a +"=" +t able);  
+        system.out.println(n + "x"+ a +"=" + table);  
         a++;
         }
     }
